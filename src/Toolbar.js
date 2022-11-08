@@ -12,5 +12,4 @@ class Toolbar extends React.Component{
         )
     }
 }
-
 export default Toolbar;
